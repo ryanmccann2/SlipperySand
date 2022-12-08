@@ -1,0 +1,24 @@
+Contains Double B Accepted
+String = "aaaaaabbaaa" was accepted in 8 transitions.
+Configurations:
+q1aaaaaabbaaa
+q1aaaaaabbaaa
+aq1aaaaabbaaa
+aaq1aaaabbaaa
+aaaq1aaabbaaa
+aaaaq1aabbaaa
+aaaaaq1abbaaa
+aaaaaaq1bbaaa
+aaaaaaq1bbaaa
+aaaaaabq1baaa
+aaaaaabq1baaa
+aaaaaabq2baaa
+aaaaaabbq1aaa
+aaaaaabbq3aaa
+
+Contains Double B Rejected
+String = "aaaaabaa" was rejected in 9 steps.
+
+Contains Double B Max Step Exceeded
+Execution stopped after 2 steps.
+
