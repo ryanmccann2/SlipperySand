@@ -1,0 +1,37 @@
+Caesar Cipher Accpeted
+String = "2abcd" was accepted in 25 transitions.
+Configurations:
+q12abcd
+q11abcd
+1q2bbcd
+1bq2ccd
+1bcq2dd
+1bcdq2a
+1bcdaq2_
+1bcdq3a_
+1bcq3da_
+1bq3cda_
+1q3bcda_
+q31bcda_
+1q4bcda_
+q10bcda_
+0q2ccda_
+0cq2dda_
+0cdq2aa_
+0cdaq2b_
+0cdabq2_
+0cdaq3b_
+0cdq3ab_
+0cq3dab_
+0q3cdab_
+q30cdab_
+0q4cdab_
+q1_cdab_
+_q5cdab_
+
+Caesar Cipher Rejected
+String = "2ab5cd" was rejected in 4 steps.
+
+Caesar Cipher Max Step Limit
+Execution stopped after 1 steps.
+

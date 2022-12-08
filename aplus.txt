@@ -1,0 +1,18 @@
+Aplus Accepted
+String = "aaa" was accepted in 4 transitions.
+Configurations:
+q1aaa
+q1aaa
+q1aaa
+aq1aa
+aq1aa
+aaq1a
+aaq1a
+aaaq2_
+aaa_q3
+
+Aplus Rejected
+String = "bbb" was rejected in 1 steps.
+
+Aplus Max Step Limit
+Execution stopped after 3 steps.
